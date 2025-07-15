@@ -1,6 +1,6 @@
 # PRODIGY_WD_05
 Weather App
-This is a simple and interactive Weather App that fetches and displays current weather conditions and a 3-day forecast for a specified city or your current location. The app features dynamic background gradients that change based on the current weather conditions.
+This is a simple and interactive Weather App that fetches and displays current weather conditions and forecast for a specified city or your current location. The app features dynamic background gradients that change based on the current weather conditions.
 
 Table of Contents
 Features
